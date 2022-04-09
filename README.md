@@ -1,11 +1,11 @@
 # Discord.js-Advanced-Bot-Code
 
-#BY VENOM
+# BY VENOM
 - [DISCORD](https://discord.gg/yEykfn4w99)
 
 
 # FEATURES
 - ```Advanced Command Handler```
 - ```Advanced Event Handler```
-- ```Advanced Config file
+- ```Advanced Config file```
 - ```Colors file```
