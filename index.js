@@ -1,4 +1,4 @@
-const {Collection, Client, Discord} = require('discord.js');
+const {Collection, Client, Discord} = require('discord.js'); //by VENOM
 const fs = require('fs')
 const config = require('./config.json');
 const client = new Client({
@@ -7,7 +7,7 @@ const client = new Client({
         "GUILD_MEMBERS",
         "GUILD_BANS",
         "GUILD_INTEGRATIONS",
-        "GUILD_WEBHOOKS",
+        "GUILD_WEBHOOKS", //Dont change anything
         "GUILD_INVITES",
         "GUILD_VOICE_STATES",
         "GUILD_PRESENCES",
@@ -31,3 +31,4 @@ client.categories = fs.readdirSync("./commands/");
 });
 
 client.login(config.token)
+//Dont change anything
